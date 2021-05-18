@@ -1,5 +1,5 @@
 # S3C44B0X-S3CEV40
-## Simulacion de cola de supermercado con microcontrolador S3C44B0X y placa de prototipado Embest S3CEV40
+## Simulacion de cola de supermercado con microcontrolador S3C44B0X y placa de prototipado Embest S3CEV40 y RTOS
 
 S3C44B0X : Microcontrolador SoC (System-on-Chip de Samsung (1 Core ARM7TDMI (66 Mhz), cache configurable, 3 buses(local, sistema, perisferico) y 26 dispositivos internos (controladores).
 
